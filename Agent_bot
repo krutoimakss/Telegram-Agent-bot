@@ -12,7 +12,7 @@ from aiogram.types import (
     KeyboardButton
 )
 
-TOKEN = "PASTE_TOKEN_HERE"
+TOKEN = "8652560896:AAFAY9FQyytlOpcg8pXR-MqGUs9zpL0SOEg"
 
 bot = Bot(TOKEN)
 dp = Dispatcher()
